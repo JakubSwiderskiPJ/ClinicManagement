@@ -5,7 +5,28 @@
     <projectFile profileName="IIS Express">ClinicManagement.API/ClinicManagement.API.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bea2e0b-19a5-4fe5-a8c5-76ec95624d8c" name="Changes" comment="" />
+    <list default="true" id="2bea2e0b-19a5-4fe5-a8c5-76ec95624d8c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ClinicManagement.API/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ClinicManagement.API/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClinicManagement.API/ClinicManagement.API.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ClinicManagement.API/ClinicManagement.API.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClinicManagement.API/obj/ClinicManagement.API.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ClinicManagement.API/obj/ClinicManagement.API.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClinicManagement.API/obj/ClinicManagement.API.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ClinicManagement.API/obj/ClinicManagement.API.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClinicManagement.API/obj/Debug/net6.0/ClinicManagement.API.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ClinicManagement.API/obj/Debug/net6.0/ClinicManagement.API.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClinicManagement.API/obj/Debug/net6.0/ClinicManagement.API.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ClinicManagement.API/obj/Debug/net6.0/ClinicManagement.API.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClinicManagement.API/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ClinicManagement.API/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClinicManagement.API/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ClinicManagement.API/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClinicManagement.API/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ClinicManagement.API/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClinicManagement.API/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ClinicManagement.API/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClinicManagement.Core/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ClinicManagement.Core/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClinicManagement.Infrastructure/ClinicManagement.Infrastructure.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ClinicManagement.Infrastructure/ClinicManagement.Infrastructure.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClinicManagement.Infrastructure/obj/ClinicManagement.Infrastructure.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ClinicManagement.Infrastructure/obj/ClinicManagement.Infrastructure.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClinicManagement.Infrastructure/obj/Debug/net6.0/ClinicManagement.Infrastructure.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ClinicManagement.Infrastructure/obj/Debug/net6.0/ClinicManagement.Infrastructure.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClinicManagement.Infrastructure/obj/Debug/net6.0/ClinicManagement.Infrastructure.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ClinicManagement.Infrastructure/obj/Debug/net6.0/ClinicManagement.Infrastructure.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClinicManagement.Infrastructure/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ClinicManagement.Infrastructure/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClinicManagement.Infrastructure/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ClinicManagement.Infrastructure/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClinicManagement.Infrastructure/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ClinicManagement.Infrastructure/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClinicManagement.Infrastructure/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ClinicManagement.Infrastructure/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClinicManagement.Tests/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ClinicManagement.Tests/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +36,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2BDoc2O8Sbk76KeuAinMOQosple" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,6 +48,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -67,13 +92,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656450120667</updated>
-      <workItem from="1656450121685" duration="1482000" />
+      <workItem from="1656450121685" duration="4215000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="UnknownFeatures">
     <option featureType="com.jetbrains.rider.solution.reference" implementationName="Microsoft.AspNetCore.Diagnostics" />
